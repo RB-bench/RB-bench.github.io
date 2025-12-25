@@ -1,10 +1,10 @@
 title: Prof. Ke Xu's Homepage
-description: Research Homepage on Random Binary CSP.
+description: Research Homepage on Random Binary Benchmark.
 remote_theme: carlosperate/jekyll-theme-rtd
 
 # Theme settings:
 site_author: Carlos Pereira Atencio
-# repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
+repo_url: "https://github.com/RB-bench/"
 edit_on_github: true
 github_docs_folder: true
 sticky_navigation: true
@@ -16,3 +16,10 @@ hljs_style: github-gist
 show_footer: false
 show_copyright: false
 show_revision: false
+
+
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge

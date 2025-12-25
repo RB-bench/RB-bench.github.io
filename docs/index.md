@@ -32,7 +32,31 @@ Beijing, 100083, P. R. China
 - Network Measurement, Modeling and Analysis
 
 ---
+## Selected Papers about Model RB
 
+Ke Xu and Wei Li.
+[Exact Phase Transitions in Random Constraint Satisfaction Problems.](assets/pdf/JAIR00.pdf)
+*Journal of Artificial Intelligence Research*, 12(2000):93-103.
+
+Ke Xu and Wei Li.
+[Many Hard Examples in Exact Phase Transitions.](assets/pdf/TCS06.pdf)
+*Theoretical Computer Science*, 355(2006):291-302.
+Earlier version: CoRR Report cs.CC/0302001, Feb. 2003.
+
+Ke Xu, Frederic Boussemart, Fred Hemery and Christophe Lecoutre.
+[Random Constraint Satisfaction: Easy Generation of Hard (Satisfiable) Instances.](assets/pdf/AIJ07.pdf)
+*Artificial Intelligence*, 171(2007):514-534.
+Earlier version appeared in Proc. of 19th IJCAI, pp.337-342, Scotland, 2005.
+
+Ke Xu and Guangyan Zhou.
+[SAT Requires Exhaustive Search.](assets/pdf/SAT_requires_exhaustive_search.pdf)
+*Frontiers of Computer Science*, Volume 19, article number 1912405, (2025).
+
+
+Ke Xu and Guangyan Zhou.
+[Self-reference as key to proving extreme hardness——Reply to the comment by Allender and Williams.](assets/pdf/Self-reference_as_key_to_proving_extreme_hardness.pdf)
+
+---
 
 ## Benchmarks Based on Model RB
 
@@ -47,32 +71,7 @@ Several benchmark collections developed by **Ke Xu**:
 
 
 ---
-## Selected Papers about Model RB
 
-Ke Xu and Wei Li.
-[Exact Phase Transitions in Random Constraint Satisfaction Problems.](assets/pdf/JAIR00.pdf)
-Journal of Artificial Intelligence Research, 12(2000):93-103.
-
-
-Ke Xu and Wei Li.
-[Many Hard Examples in Exact Phase Transitions.](assets/pdf/TCS06.pdf)
-Theoretical Computer Science, 355(2006):291-302.
-Earlier version: CoRR Report cs.CC/0302001, Feb. 2003.
-
-Ke Xu, Frederic Boussemart, Fred Hemery and Christophe Lecoutre.
-[Random Constraint Satisfaction: Easy Generation of Hard (Satisfiable) Instances.](assets/pdf/AIJ07.pdf)
-Artificial Intelligence, 171(2007):514-534.
-Earlier version appeared in Proc. of 19th IJCAI, pp.337-342, Scotland, 2005.
-
-Ke Xu and Guangyan Zhou.
-[SAT Requires Exhaustive Search.](assets/pdf/SAT_requires_exhaustive_search.pdf)
-Frontiers of Computer Science, Volume 19, article number 1912405, (2025).
-
-
-Ke Xu and Guangyan Zhou.
-[Self-reference as key to proving extreme hardness——Reply to the comment by Allender and Williams.](assets/pdf/Self-reference_as_key_to_proving_extreme_hardness.pdf)
-
----
 
 ## Games Based on Model RB
 
